@@ -1,2 +1,16 @@
-# bot-test-29e0b543-1777601071035
-Chatbot APK for Test | BotForge Project: 29a60f7c-02a4-48fd-b900-ec6f9135c86e
+# business_chatbot_template
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
